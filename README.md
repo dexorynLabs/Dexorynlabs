@@ -3,9 +3,6 @@
   <h1>DexorynLabs ⚡️</h1>
   <p><strong>On-chain provable casinos + Polymarket sniper bots + autonomous trading agents</strong></p>
 
-  <p>
-    <a href="https://dexorynlabs.xyz">dexorynlabs.com</a> •  <a href="https://t.me/dexorynlabs">@dexorynlabs</a>
-  </p>
 </div>
 
 ## Top Services (2025)
