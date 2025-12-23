@@ -6,12 +6,13 @@
 </div>
 
 ## Top Services (2025)
-| Rank | Service                                      | Chains Supported                  | Delivery Time |
-|------|----------------------------------------------|-----------------------------------|---------------|
-| 1    | Full Crypto Casino (Web + Telegram Mini App) | TON, Solana, Base, Polygon        | 4–10 weeks    |
-| 2    | Trading Bot Marketplace (Sniper, Copy, MEV)  | Solana, Base, BSC, Ethereum       | 4–8 weeks     |
-| 3    | Provably Fair Games (Slots, Crash, Dice, Plinko) | All EVM + Solana + TON        | 2–5 weeks     |
-| 4    | Telegram Bot Casinos & Mini Apps             | TON & Solana                      | 3–6 weeks     |
+| Rank | Service                                                | Chains Supported                  | Delivery Time |
+|------|--------------------------------------------------------|-----------------------------------|---------------|
+| 1    | Full Crypto Casino (Web + Telegram Mini App)           | TON, Solana, Base, Polygon        | 4–10 weeks    |
+| 2    | Trading Bot Marketplace (Sniper, Copy, MEV)            | Solana, Base, BSC, Ethereum       | 4–8 weeks     |
+| 3    | Provably Fair Games (Slots, Crash, Dice, Plinko)       | All EVM + Solana + Bnb + TON      | 2–4 weeks     |
+| 4    | Telegram Bot Casinos & Mini Apps                       | TON & Solana                      | 2–6 weeks     |
+| 5    | Separately Trading Bots (Sniper, Copytrading, Arb ,...)| Pumpfun, Polymarket, Kalshi       | 3-5 dayss     |
 
 
 ## Currently shipping money printers:
